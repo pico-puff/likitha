@@ -2,11 +2,6 @@
 
 ### Full Stack Developer | Cyber Security Enthusiast 
 
-📍 Mangalore, India
-📧 [likkilikthaa@gmail.com](mailto:likkilikthaa@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/likilikitha/
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
 ---
 
 ## About Me
