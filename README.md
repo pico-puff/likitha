@@ -1,4 +1,4 @@
-# Hi 👋, I'm Likitha
+# Hi I'm Likitha
 
 ### Full Stack Developer | Cyber Security Enthusiast | BCA Student
 
