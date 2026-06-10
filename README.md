@@ -1,6 +1,6 @@
 # Hi I'm Likitha
 
-### Full Stack Developer | Cyber Security Enthusiast | BCA Student
+### Full Stack Developer | Cyber Security Enthusiast 
 
 📍 Mangalore, India
 📧 [likkilikthaa@gmail.com](mailto:likkilikthaa@gmail.com)
@@ -119,6 +119,16 @@ I am a Computer Applications student specializing in Cyber Security with a passi
 
 ---
 
+## Certifications
+
+* MongoDB: CRUD Operations, Schema Patterns, Relational to Document Model, Vector Search Fundamentals
+* Cisco Packet Tracer
+* EC-Council SQL Injection
+* TCS iON Soft Skills
+* Understanding Risk Management in the Financial Sector (TCS iON)
+
+---
+
 ## Achievements
 
 🏆 Grade O (10/10) in Final Year Project Work (182/200)
@@ -137,4 +147,5 @@ I am a Computer Applications student specializing in Cyber Security with a passi
 * LinkedIn: https://www.linkedin.com/in/likilikitha/
 * Email: [likkilikthaa@gmail.com](mailto:likkilikthaa@gmail.com)
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Always learning, always building, and always ready for the next challenge.
+
